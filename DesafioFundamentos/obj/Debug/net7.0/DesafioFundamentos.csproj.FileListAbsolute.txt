@@ -1,0 +1,14 @@
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.exe
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.deps.json
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.dll
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.pdb
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.dll
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\refint\DesafioFundamentos.dll
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.pdb
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\Sanna Dias\Downloads\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net7.0\ref\DesafioFundamentos.dll
